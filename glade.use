@@ -1,0 +1,5 @@
+Name: Glade 2.0
+Description: RAD tool to build GTK2 user interfaces
+Pkgs: libglade-2.0
+Includes: glade/glade.h
+
